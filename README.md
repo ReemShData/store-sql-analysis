@@ -14,14 +14,15 @@ generate the most revenue, and identify the best selling categories.
 - SQL (SQLite)
 
 ## Key Findings
-- Laptop generates the highest revenue
-- Electronics is the best selling category
-- Both stores have similar performance
+- Laptop generates the highest revenue ($10,400)
+- Clothing is the best selling category by units (140 units)
+- Electronics generates the highest revenue ($24,900)
+- Store B has slightly higher revenue ($15,600) than Store A ($15,000)
 
 ## Decision & Recommendations
 - Focus on Electronics as it drives most revenue
-- Expand Laptop inventory in both stores
-- Review Clothing category strategy
+- Clothing sells more units but at lower prices
+- Both stores perform similarly so expand both equally
 
 ## Analysis Steps & Results
 
